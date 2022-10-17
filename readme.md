@@ -2,15 +2,15 @@
 
 # Lab | Handling Data Imbalance in Classification Models
 
-For this lab and in the next lessons we will build a model on Healthcare For All building a model to predict who will donate (TargetB) and how much they will give (TargetD). You will be using `files_for_lab/learningSet.csv` file which you have already downloaded from class.
+For this lab and in the next lessons we will use the dataset 'Healthcare For All' building a model to predict who will donate (TargetB) and how much they will give (TargetD). You will be using `files_for_lab/learningSet.csv` file which you have already downloaded from class.
 
 ### Scenario
 
-You are revisiting the Healthcare for All Case Study. You are provided with this historical data about Donors and how much they donated.. Your task is to build a machine learning model that will help the company identify people who are more likely to donate and then try to predict the donation amount.
+You are revisiting the Healthcare for All Case Study. You are provided with this historical data about Donors and how much they donated. Your task is to build a machine learning model that will help the company identify people who are more likely to donate and then try to predict the donation amount.
 
 ### Instructions
 
-In this lab, we will first take a look at the degree of imbalance in the data and correct it using the techniques we learned on the class.
+In this lab, we will first take a look at the degree of imbalance in the data and correct it using the techniques we learned in the class.
 
 Here is the list of steps to be followed (building a simple model without balancing the data):
 
